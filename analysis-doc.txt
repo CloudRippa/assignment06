@@ -1,0 +1,17 @@
+When you are satisfied that your program is correct, write a brief analysis document. The analysis document is 20% of your Assignment 7 grade. Ensure that your analysis document addresses the following.
+
+1. Have you worked with more than one partner yet? Remember, you are required to switch at least once this semester.
+
+2. In the LinkedListStack class, the stack data structure is implemented using a doubly-linked list. Would it be better to use a singly-linked list instead? Defend your answer.
+
+3. Would it be possible to replace the instance of DoublyLinkedList in the LinkedListStack class with an instance of Java's LinkedList? Why or why not?
+
+4. Comment on the efficiency of your time spent developing the LinkedListStack class.
+
+5. Note that the line and column number given by BalancedSymbolChecker indicate the location in a file where an unmatched symbol is detected (i.e., where the closing symbol is expected). Explain how you would also keep track of the line and column number of the unmatched opening symbol. For example, in Class1.java, the unmatched symbol is detected at line 6 and column 1, but the original '(' is located at line 2 and column 24.
+
+6. Collect and plot running times in order to determine if the running times of the LinkedListStack methods push, pop, and peek are O(1) as expected.
+
+7. How many hours did you spend on this assignment?
+
+Upload your solution (in .pdf format only) to the Assignment 7 page by 11:59pm on October 13.
